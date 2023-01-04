@@ -3,7 +3,7 @@ import time
 import pandas as pd
 import streamlit as st
 
-from sklearn import datasets
+from sklearn.datasets import load_iris
 from sklearn.ensemble import RandomForestClassifier
 
 #----------------------------------
@@ -30,7 +30,7 @@ df = user_input_features()
 st.subheader('User Input parameters')
 st.write(df)
 
-iris = datasets.load_iris()
+iris = load_iris()
 X = iris.data
 Y = iris.target
 
