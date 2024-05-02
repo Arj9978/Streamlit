@@ -18,4 +18,4 @@ Contributions to this repository are welcome! If you have any ideas for improvem
 By providing an interactive and visually appealing user experience, this Streamlit application makes it easy for users to predict the types of Iris flowers accurately. It serves as an excellent starting point for learning about classification tasks and showcases the capabilities of Streamlit for building machine learning applications.
 
 ## URL of Web Application
-https://arj9978-streamlit-iris-flower-web-application-ucmuto.streamlit.app/
+[https://arj9978-streamlit-iris-flower-web-application-ucmuto.streamlit.app/](https://iris-flower-web-application-by-javid.streamlit.app/)
